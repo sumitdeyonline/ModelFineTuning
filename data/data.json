@@ -1,0 +1,152 @@
+[
+    {
+        "instruction": "Extract name and age from the text",
+        "input": "John is 25 years old",
+        "output": "{\"name\": \"John\", \"age\": 25}"
+    },
+    {
+        "instruction": "Extract product and price",
+        "input": "iPhone costs $999",
+        "output": "{\"product\": \"iPhone\", \"price\": 999}"
+    },
+    {
+        "instruction": "Extract name and age from the text",
+        "input": "Alice is 30 years old",
+        "output": "{\"name\": \"Alice\", \"age\": 30}"
+    },
+    {
+        "instruction": "Extract product and price",
+        "input": "Samsung TV costs $1200",
+        "output": "{\"product\": \"Samsung TV\", \"price\": 1200}"
+    },
+    {
+        "instruction": "Extract city and country",
+        "input": "Paris is in France",
+        "output": "{\"city\": \"Paris\", \"country\": \"France\"}"
+    },
+    {
+        "instruction": "Extract company and revenue",
+        "input": "Tesla reported revenue of $81400 million",
+        "output": "{\"company\": \"Tesla\", \"revenue_million\": 81400}"
+    },
+    {
+        "instruction": "Extract name and profession",
+        "input": "Michael is a doctor",
+        "output": "{\"name\": \"Michael\", \"profession\": \"doctor\"}"
+    },
+    {
+        "instruction": "Extract product and discount",
+        "input": "Laptop has a 20% discount",
+        "output": "{\"product\": \"Laptop\", \"discount\": 20}"
+    },
+    {
+        "instruction": "Extract temperature and city",
+        "input": "It is 75°F in San Diego",
+        "output": "{\"temperature_f\": 75, \"city\": \"San Diego\"}"
+    },
+    {
+        "instruction": "Extract date and event",
+        "input": "Meeting is scheduled on March 25",
+        "output": "{\"event\": \"Meeting\", \"date\": \"March 25\"}"
+    },
+    {
+        "instruction": "Extract name and salary",
+        "input": "David earns $70000 annually",
+        "output": "{\"name\": \"David\", \"salary\": 70000}"
+    },
+    {
+        "instruction": "Extract product and quantity",
+        "input": "Order includes 3 iPads",
+        "output": "{\"product\": \"iPad\", \"quantity\": 3}"
+    },
+    {
+        "instruction": "Extract movie and year",
+        "input": "Inception was released in 2010",
+        "output": "{\"movie\": \"Inception\", \"year\": 2010}"
+    },
+    {
+        "instruction": "Extract book and author",
+        "input": "1984 was written by George Orwell",
+        "output": "{\"book\": \"1984\", \"author\": \"George Orwell\"}"
+    },
+    {
+        "instruction": "Extract flight number and destination",
+        "input": "Flight AA101 is going to New York",
+        "output": "{\"flight_number\": \"AA101\", \"destination\": \"New York\"}"
+    },
+    {
+        "instruction": "Extract product and rating",
+        "input": "This camera has a rating of 4.5 stars",
+        "output": "{\"product\": \"camera\", \"rating\": 4.5}"
+    },
+    {
+        "instruction": "Extract person and nationality",
+        "input": "Emma is from Canada",
+        "output": "{\"name\": \"Emma\", \"country\": \"Canada\"}"
+    },
+    {
+        "instruction": "Extract language and difficulty",
+        "input": "Python is an easy language",
+        "output": "{\"language\": \"Python\", \"difficulty\": \"easy\"}"
+    },
+    {
+        "instruction": "Extract product and availability",
+        "input": "PlayStation 5 is out of stock",
+        "output": "{\"product\": \"PlayStation 5\", \"availability\": \"out of stock\"}"
+    },
+    {
+        "instruction": "Extract sport and players",
+        "input": "A soccer team has 11 players",
+        "output": "{\"sport\": \"soccer\", \"players\": 11}"
+    },
+    {
+        "instruction": "Extract company and CEO",
+        "input": "Google's CEO is Sundar Pichai",
+        "output": "{\"company\": \"Google\", \"ceo\": \"Sundar Pichai\"}"
+    },
+    {
+        "instruction": "Extract product and weight",
+        "input": "This laptop weighs 2.5 kg",
+        "output": "{\"product\": \"laptop\", \"weight_kg\": 2.5}"
+    },
+    {
+        "instruction": "Extract city and population",
+        "input": "Tokyo has a population of 14 million",
+        "output": "{\"city\": \"Tokyo\", \"population_million\": 14}"
+    },
+    {
+        "instruction": "Extract course and duration",
+        "input": "The course lasts 6 weeks",
+        "output": "{\"course\": \"course\", \"duration_weeks\": 6}"
+    },
+    {
+        "instruction": "Extract device and battery life",
+        "input": "This phone has 10 hours of battery life",
+        "output": "{\"device\": \"phone\", \"battery_hours\": 10}"
+    },
+    {
+        "instruction": "Extract food and calories",
+        "input": "A burger contains 500 calories",
+        "output": "{\"food\": \"burger\", \"calories\": 500}"
+    },
+    {
+        "instruction": "Extract vehicle and mileage",
+        "input": "This car gives 25 mpg mileage",
+        "output": "{\"vehicle\": \"car\", \"mileage_mpg\": 25}"
+    },
+    {
+        "instruction": "Extract subject and marks",
+        "input": "He scored 85 in math",
+        "output": "{\"subject\": \"math\", \"marks\": 85}"
+    },
+    {
+        "instruction": "Extract product and warranty",
+        "input": "The washing machine has 2 years warranty",
+        "output": "{\"product\": \"washing machine\", \"warranty_years\": 2}"
+    },
+    {
+        "instruction": "Extract employee and department",
+        "input": "Sarah works in HR department",
+        "output": "{\"name\": \"Sarah\", \"department\": \"HR\"}"
+    }
+]

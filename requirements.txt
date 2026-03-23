@@ -1,0 +1,10 @@
+torch<=2.2.2
+openai
+python-dotenv
+dotenv
+transformers
+datasets
+accelerate
+peft
+trl
+streamlit

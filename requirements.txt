@@ -1,4 +1,4 @@
-torch<=2.2.2
+torch
 openai
 python-dotenv
 dotenv

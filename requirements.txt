@@ -1,7 +1,6 @@
 torch
 openai
 python-dotenv
-dotenv
 transformers
 datasets
 accelerate
